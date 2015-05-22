@@ -1,6 +1,8 @@
 Action Bar Sherlock
 ===================
 
+[![Join the chat at https://gitter.im/beshkenadze/ActionBarSherlock](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/beshkenadze/ActionBarSherlock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ActionBarSherlock is an extension of the [compatibility library][1] designed
 to facilitate the use of the action bar design pattern across all versions of
 Android through a single API.
